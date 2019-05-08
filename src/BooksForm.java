@@ -99,6 +99,10 @@ public class BooksForm extends JFrame {
 		});
 		
 		JButton btnBack = new JButton("Back");
+		JButton btnBack = new JButton("Front");
+		JButton btnBack = new JButton("Left");
+		JButton btnBack = new JButton("Right");
+		
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane.setHorizontalGroup(
 			gl_contentPane.createParallelGroup(Alignment.TRAILING)
